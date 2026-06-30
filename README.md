@@ -32,3 +32,6 @@ Sunucu güvenliğini sağlamak ve sadece gerekli portlara izin vermek adına bir
 * **Bulut Altyapı Yönetimi (Cloud IaaS):** Bulut üzerinde kaynak oluşturma, maliyet kontrolü (Free Tier) ve bölge (Region) mantığı.
 * **Sanal Ağ ve Güvenlik:** Security Group kuralları ile sunucu düzeyinde network katmanı filtrelemesi.
 * **AWS Entegrasyonu:** İlerleyen süreçlerde geliştirilecek olan CI/CD (AWS CodePipeline) ve DNS (Route 53) süreçleri için temel altyapı olgunluğunun kazanılması.
+
+
+https://roadmap.sh/projects/ec2-instance
